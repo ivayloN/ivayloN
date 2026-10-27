@@ -1,6 +1,6 @@
 # Ivaylo (Ivo) Nikolov
 
-Senior full-stack engineer and technical lead in Vancouver. Partner and Director of Technology at [Virtually Canadian](https://www.northstepdigital.com) (NorthStep Digital, InsightFold AI) and co-founder of [NextLevel Digital](https://www.nextleveldigital.ca/).
+Senior full-stack engineer and technical lead in Vancouver. Partner and Director of Technology at [Virtually Canadian](https://www.virtuallycanadian.ca/) (NorthStep Digital, InsightFold AI) and co-founder of [NextLevel Digital](https://www.nextleveldigital.ca/).
 
 Fifteen years shipping web platforms. These days that means Next.js and Sanity on the front, Laravel or Node and Postgres behind it, and Claude in the loop both as a product component and as a daily collaborator in Claude Code.
 
